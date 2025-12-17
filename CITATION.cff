@@ -1,0 +1,48 @@
+# This CITATION.cff file was generated to help others cite this software.
+# Visit https://citation-file-format.github.io/ for more information.
+
+cff-version: 1.2.0
+title: "Metacognitive MCP: Epistemic Infrastructure for AI Agents"
+message: "If you use this software, please cite it as below."
+type: software
+authors:
+  - family-names: "Joseph"
+    given-names: "Aneesh"
+    orcid: ""  # Add your ORCID if you have one
+    affiliation: "Independent Researcher, Human Cognitive Neuroscience"
+repository-code: "https://github.com/YOUR_USERNAME/metacognitive-mcp"
+url: "https://github.com/YOUR_USERNAME/metacognitive-mcp"
+abstract: >-
+  The Metacognitive MCP is a Model Context Protocol server that provides
+  structured epistemic reasoning tools for AI agents. Unlike typical MCPs
+  that fetch external data, this MCP provides structured cognition—protocols
+  that help AI agents reason more rigorously. It includes tools for grounded
+  reasoning, adversarial stress testing, cognitive bias detection, question
+  decomposition, and inference validation. The architecture enforces an
+  epistemic closure invariant, ensuring every output contains everything
+  necessary to evaluate its own validity.
+keywords:
+  - metacognition
+  - epistemic reasoning
+  - artificial intelligence
+  - model context protocol
+  - cognitive architecture
+  - AI safety
+  - reasoning systems
+  - bias detection
+  - logical validation
+license: Apache-2.0
+version: "0.1.0"
+date-released: "2024-12-17"
+references:
+  - type: article
+    title: "The epistemic closure invariant in AI reasoning systems"
+    notes: "Conceptual foundation for the project"
+preferred-citation:
+  type: software
+  title: "Metacognitive MCP: Epistemic Infrastructure for AI Agents"
+  authors:
+    - family-names: "Joseph"
+      given-names: "Aneesh"
+  year: 2024
+  url: "https://github.com/YOUR_USERNAME/metacognitive-mcp"
