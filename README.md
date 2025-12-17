@@ -88,19 +88,10 @@ metacognitive-mcp/
 └── tests/
 ```
 
-## Design Philosophy
-
-This MCP embodies principles from master programmers:
-
-- **Dijkstra**: Invariant-based design—the `EpistemicResponse` structure enforces completeness
-- **Torvalds**: No conditionals in dispatch—all protocols share a uniform interface
-- **Hickey**: Essential/incidental separation—epistemic logic is isolated from transport
-- **Liskov**: Substitution through contracts—any protocol works where another is expected
-- **Pike**: Data over code—the registry is a table of facts, not branching logic
 
 ## License
 
-MIT
+Apache - 2
 
 ## Author
 
