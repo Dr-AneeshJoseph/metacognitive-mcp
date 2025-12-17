@@ -22,7 +22,7 @@ The Metacognitive MCP is an epistemic reasoning tool for AI agents. While it doe
 **Do NOT report security vulnerabilities through public GitHub issues.**
 
 Instead, please report them via:
-- Email: [Create a security contact email]
+- Email: aneeshjoseph1091@gmail.com
 - GitHub Security Advisories (preferred): Navigate to Security → Advisories → New draft security advisory
 
 ### What to Include
